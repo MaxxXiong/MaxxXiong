@@ -39,10 +39,10 @@ The primary mission is the expansion of the **Awesome Eliza** nexus—a curated 
 
 # Fuel the Machine | 供能终端 ☕
 
-<p align="center">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="150">
   <br>
   <code>SOL: LmveWmJLn1CkitYaj8EMbGPPXeXoGBMXBZLwDqqfycZ</code>
-  
   <br>
   <em>Support the synthesis of next-gen autonomous intelligence.</em>
 </p>
