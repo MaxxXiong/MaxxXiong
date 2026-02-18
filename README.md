@@ -38,7 +38,7 @@ Through the **Vibe** engine and **CNP (CryptoNinja Partners)**, he has effective
 * **Twitter (X)**: [@IHayato](https://x.com/ihayato)
 * **Intelligence**: [Official Mag / Newsletter](https://mag.ikehaya.com/lp/vNvAqttZ)
 * **Corporate**: [Vibe Inc.](https://vibe.co.jp/)
-* **SOL-DONATION**: [SOLSCAN](https://solscan.io/account/5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw)
+* **SOL**: [SOLSCAN](https://solscan.io/account/5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw)
 
 ---
 
