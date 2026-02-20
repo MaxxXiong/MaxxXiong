@@ -1,60 +1,45 @@
-<p align="center">
-  <img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/8bc1c672-4b85-4c86-98d9-f05c087a9b5c" />
-</p>
-
-<p align="center">
-  $\color{#14F195}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$
-</p>
+# <p align="center">🚀 Steven Sarmi</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </p>
 
-> <p align="center"><i>"Bridging traditional broadcasting with AI-native production and blockchain-backed heritage."</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Product_Engineer-14F195?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ecosystem-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+</p>
 
-**The creator economy is evolving.** Ikehaya is a pioneer in the Japanese Web3 space, transforming the landscape of Intellectual Property through **CryptoNinja**. From producing national TV animation to engineering the next generation of AI-driven creative loops, he is redefining what it means to be a "digital architect" in the 21st century.
-
-Through **Vibe Inc.** and **Ninja DAO**, he leads a movement that empowers creators to own their lore, scale through AI, and build sustainable value on the ledger.
-
----
-
-### $\color{#14F195}{\text{Active Operations | 現在の活動}}$
-
-* **$\color{#14F195}{\text{Animation Production}}$**: Executive producer of **"CryptoNinja Saki"** (TV Anime) and lead developer of cutting-edge AI-native animation workflows.
-* **$\color{#14F195}{\text{Physical Assets}}$**: Architect of **CNP TCG (Trading Card Game)**, bridging digital collectibles with high-fidelity physical gaming.
-* **$\color{#14F195}{\text{Intelligence Broadcast}}$**: Host of the **"AI-Earning Radio"** podcast and author of the **Senseki (穿石)** newsletter, reaching 30,000+ subscribers daily.
+> <p align="center">Building thoughtful experiences & solving interesting problems with code. ✨</p>
 
 ---
 
-### $\color{#14F195}{\text{The Protocol Layer | プロトコル・レイヤー}}$
+### ⌈ ⚡️ Overview ⌋
 
-* **Vibe Inc.**: The corporate engine driving Web3 IP expansion and AI creative research.
-* **Ninja DAO**: One of the world’s most active decentralized communities, fostering a secondary-creation economy.
-* **CNP (CryptoNinja Partners)**: Japan's premier NFT project, maintaining a multi-million dollar market cap through utility and community.
+Currently, I'm a **Product Engineer @ the Solana Foundation**. I spend my time building the technical substrate for the Solana ecosystem, focusing on the intersection of product, design, and engineering.
 
----
-
-### $\color{#14F195}{\text{Key Transmissions | 主要な取り組み}}$
-
-* **CryptoNinja Saki (TV Anime)**: Breaking the boundaries between community-led IP and mainstream broadcast television.
-* **AI Anime Integration**: Pioneering the use of generative AI to streamline anime production for the decentralized era.
-* **Senseki Newsletter**: The primary intelligence feed for the Japanese Web3 and AI sectors.
+Most recently, I've worked with high-velocity startups like **MetaDAO**, **Triton**, and **Vapi** on product development and engineering strategy. 
 
 ---
 
-# <p align="center">$\color{#14F195}{\text{Connect Terminal | 接続ターミナル}}$</p>
+### ⌈ 🛠️ Core Projects ⌋
 
-* **Corporate**: [Vibe Inc.](https://vibe.co.jp/)
-* **Newsletter**: [Senseki (穿石) - 30k+ Readers](https://x.gd/HtTYI)
-* **Official IP**: [CryptoNinja Saki TV](https://cryptoninja-sakuya.xyz/)
-* **TCG**: [CNP Trading Card Game](https://cnptcg.monolithos.co.jp/)
-* **Twitter (X)**: [@IHayato](https://x.com/ihayato)
-* **SOL-Wallet**; [5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw](https://solscan.io/account/5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw)
+* **🏗️ [Capi](https://www.capi.dev/)**: Modular infrastructure for cross-chain applications.
+* **🎨 [Symbols](https://www.symbols.dev/)**: High-fidelity design systems for the decentralized web.
+* **⚡️ [Senko](https://github.com/stevensarmi/senko)**: Performance optimization tools for ecosystem developers.
+* **🥭 Mango Markets**: Core contributor to the open-source DeFi platform on Solana.
+
+---
+
+### ⌈ 📡 Connect ⌋
+
+* **Terminal (X)**: [@stevensarmi_](https://x.com/stevensarmi_)
+* **Intelligence**: [stevensarmi.com](https://www.stevensarmi.com/)
+* **Chain**: [Solscan Profile](http://solscan.io/account/5eLNw5UFuAxKsfvDCwJv3DNBCy4jEG6TVBqCPTyaFzsZ)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
+  <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="80">
   <br>
-  <code>$\color{#14F195}{\text{SYSTEM STATUS: SYNTHESIZING AI NARRATIVES...}}$</code>
+  <code>SYSTEM STATUS: SOLVING PUZZLES... 🛠️</code>
 </p>
