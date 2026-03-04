@@ -73,7 +73,7 @@ I build things that scale, ship early, and stay open. ⚡
 
 * **X / Twitter**: @stevensarmi_  
 * **GitHub**: github.com/stevensarmi  
-* **Solana Address**: 
+* **Solana**: AMyjboK3PBRY5s5AoK6YMp14TeQjvSPoHxBZvZdb8MyR
 
 ---
 
